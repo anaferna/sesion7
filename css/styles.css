@@ -11713,10 +11713,10 @@ html {
     width: 35vw;
   }
   .profile .profile-img {
-    height: 30vw;
+    height: 40 vw;
   }
   .profile .dots-1 {
-    width: 1.5vw;
+    width: 1.5vw; 
     right: 0.75vw;
   }
   .profile .dots-2 {
