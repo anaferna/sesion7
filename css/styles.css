@@ -11684,11 +11684,11 @@ html {
 }
 @media (min-width: 992px) {
   .profile {
-    height: 40vw;
+    height: 35vw;
     width: 40vw;
   }
   .profile .profile-img {
-    height: 45vw;
+    height: 35 vw;
   }
   .profile .dots-1 {
     width: 1.5vw;
